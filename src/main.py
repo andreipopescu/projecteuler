@@ -1,7 +1,8 @@
-from src.problems import p1
+from src.problems import p2
+from src.utils import fibonacci
 
-
-result = p1.problem()
+result = p2.problem()
 
 if __name__ == '__main__':
     print("result:", result)
+    # print("fibonacci", list(fibonacci(lambda i, v: i < 10)))
