@@ -1,5 +1,4 @@
-from src.problems import p3
-from src.utils import fibonacci
+from src.problems.page1 import p3
 
 result = p3.problem()
 
