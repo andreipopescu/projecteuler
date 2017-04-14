@@ -1,7 +1,7 @@
-from src.problems.page1 import p3
+from src.problems.page1 import p4
 
-result = p3.problem()
+problem = p4
+result = problem.problem()
 
 if __name__ == '__main__':
     print("result:", result)
-    # print("fibonacci", list(fibonacci(lambda i, v: i < 10)))
