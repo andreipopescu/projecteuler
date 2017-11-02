@@ -1,4 +1,4 @@
-from project.problems.page1 import p4
+from project.problems.page1 import *
 
 
 def main():
