@@ -2,7 +2,7 @@ from project.problems.page1 import *
 
 
 def main():
-    problem = p5
+    problem = p6
     result = problem.problem()
     print("result:", result)
 
