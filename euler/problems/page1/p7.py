@@ -4,7 +4,8 @@ we can see that the 6th prime is 13.
 
 What is the 10 001st prime number?
 """
-from utils import primes
+# from utils import primes
+from euler.sequences import primes
 
 
 def problem():

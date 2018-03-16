@@ -9,7 +9,7 @@ setup(
     install_requires=[],
     entry_points={
         'console_scripts': [
-            'euler = projecteuler.project.main:main',
+            'euler = euler:main',
         ],
     },
 )
