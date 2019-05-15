@@ -1,9 +1,9 @@
 import os
-from euler.problems.page1 import p7
+from euler.problems.page1 import __all__
 
 
 def main():
-    problem = p7
+    problem = __all__[-1]
     result = problem.problem()
     print("result:", result)
 
